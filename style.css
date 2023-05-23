@@ -605,7 +605,7 @@ footer .subscribe a {
 }
 
 .pro-links img:hover {
-    background: #101c32;
+    background: linear-gradient(#ff9292, #5c37ff);
     color: #2c2c2c;
 }
 

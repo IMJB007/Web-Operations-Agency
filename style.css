@@ -247,6 +247,7 @@ header .toggle-btn{
 #about img{
     width: 90%;
     height: 500px;
+    border-radius: 10px;
 }
 #about h2{
     color: #000000;

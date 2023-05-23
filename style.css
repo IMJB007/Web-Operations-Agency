@@ -275,6 +275,9 @@ header .toggle-btn{
     padding-left: 5px;
     color: #ddd;
 }
+.meta hr{
+    width: 10%;
+}
 
 /* Contact Us */
 

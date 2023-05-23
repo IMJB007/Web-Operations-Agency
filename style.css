@@ -271,6 +271,10 @@ header .toggle-btn{
 .meta{
     margin-top: 10px;
 }
+.meta i{
+    padding-left: 5px;
+    color: #ddd;
+}
 
 /* Contact Us */
 

@@ -702,9 +702,13 @@ footer .subscribe a {
         grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     }
     h2{
-    font-size: 2.0rem;
-    font-weight: 600;
+        font-size: 2.0rem;
+        font-weight: 600;
     color: black;
+    }
+    .containerrr{
+        padding-inline: 16px;
+        margin: auto;
     }
 
 

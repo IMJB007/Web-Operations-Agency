@@ -662,6 +662,9 @@ footer .subscribe a {
         align-items: center;
         text-align: center;
     }
+    #about hr{
+        visibility: hidden;
+    }
     #about img{
         width: 100%;
         height: 200px;

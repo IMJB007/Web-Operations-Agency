@@ -208,6 +208,7 @@ header .toggle-btn{
     grid-template-columns: repeat(auto-fit, minmax(320px,1fr));
     grid-gap: 1rem;
     margin-top: 50px;
+    justify-content: center;
 }
 #features .fea-box{
     background: #f9f9ff;
@@ -413,11 +414,11 @@ form .button{
 
 .containerrr ul {
     list-style-type: none;
-   <!-- margin-block-start: 1em;
+    margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    padding-inline-start: 40px; -->
+    padding-inline-start: 40px; 
 }
 .containerrr li {
     display: list-item;
@@ -700,16 +701,11 @@ footer .subscribe a {
     }
     .grid-list {
         grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        justify-content: center;
     }
     h2{
         font-size: 2.0rem;
         font-weight: 600;
-    color: black;
+        color: black;
     }
-    .containerrr{
-        padding-inline: 5px;
-        margin-left: 2px;
-    }
-
-
-}
+  }

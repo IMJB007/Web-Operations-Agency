@@ -361,6 +361,7 @@ form .button{
 .feature-card {
     padding: 30px 20px 40px;
     height: 220px;
+    border-radius: 10px;
 }
 .containerrr{
     padding-inline: 16px;
